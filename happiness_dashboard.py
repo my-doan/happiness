@@ -8,7 +8,6 @@ def load_happiness_data ():
 
 happiness = load_happiness_data()
 
-# User values
 st.title("World Happiness Scores")
 st.write(""" 
  """)
@@ -17,6 +16,8 @@ st.sidebar.markdown('''This data set from the World Happiness Report ranks count
                     organization asked around 1000 people in each country to give them a score on these factors, such as 
                     freedom and generosity. Explore the data set to see which variables factor into the happiness score 
                     and see which countries were the happiest in 2019. Can you guess which variable mattered the most?''')
+
+# User values
 user_number = st.sidebar.slider("Choose how many countries you would like to view:", 1, 156, 10, 1)
 user_column = st.sidebar.selectbox("Choose the variable you would like to view:", ('GDP per capita', 'Social support',
                         'Healthy life expectancy', 'Freedom to make life choices', 'Generosity',
