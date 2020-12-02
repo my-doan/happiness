@@ -6,4 +6,4 @@ The organization who conducted this study asked 1000 people to score their count
 We will also suggest which variable affects the happiness score of a country the most.
 
 For exploratory analysis on the dataset, please visit our [dashboard](https://world-happiness-mimi-yixin.herokuapp.com/).
-To see our project and the model we used to predict the happiness score, please click [here].
+To see our project and the model we used to predict the happiness score, please click [here](https://deepnote.com/project/2de027ca-daed-4b18-944c-62472ea4ca95).
