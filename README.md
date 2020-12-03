@@ -7,4 +7,4 @@ This dataset contains values that estimate the extent to which each of the varia
 We will also suggest which variable affects the happiness score of a country the most.
 
 For exploratory analysis on the dataset, please visit our [dashboard](https://world-happiness-mimi-yixin.herokuapp.com/).
-To see our report and the model we used to predict the happiness score, please click [here](https://deepnote.com/project/2de027ca-daed-4b18-944c-62472ea4ca95).
+To see our report and the model we used to predict the happiness score, please click [here](https://deepnote.com/project/2de027ca-daed-4b18-944c-62472ea4ca95?cellId=00000-3d27b267-5833-4e8c-9d17-4e01bd941b18#/happiness/notebook.ipynb).
